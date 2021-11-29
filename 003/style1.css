@@ -1,0 +1,15 @@
+﻿#aboutinfo{
+    text-align:center;
+}
+#header{
+    text-align:center;
+}
+body{
+    background-color:aquamarine;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
